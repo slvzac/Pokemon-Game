@@ -1,0 +1,7 @@
+Welcome to our OOP final project game. 
+
+Before running the game, please make sure to set file path for pokemon.txt and ASCII.txt
+
+On line 97 in PokemonArena.java, please set this according to the path of pokemon.txt. For eg: C:\\Users\\User\\Desktop\\OOP Project Final v0.1\\Pokemon Game\\src\\pokemon.txt
+
+On line 73 in PokemonArena.java, please set this according to the path of ASCII.txt. For eg: C:\\\\Users\\\\User\\\\Desktop\\\\OOP Project Final v0.1\\\\Pokemon Game\\\\src\\\\ASCII.txt
